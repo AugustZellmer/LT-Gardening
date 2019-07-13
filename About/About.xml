@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-  <name>LT-GardeningPlus</name>
+  <name>LT-GardeningRegrown</name>
   <author>MathewAlden</author>
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <description>Flowers! With a square plant pot. Updated from Kikohi's clone of Lannan's LT-Gardening mod.</description>
+  <description>Additional flowers! The mod also includes a small square pot. Updated from Kikohi's clone of Lannan's LT-Gardening mod.</description>
 </ModMetaData>
