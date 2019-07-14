@@ -2,9 +2,9 @@
 <ModMetaData>
   <name>LT-GardeningRegrown</name>
   <author>MathewAlden</author>
-  <version>14-7-2019</version>
   <supportedVersions>
     <li>1.0</li>
   </supportedVersions>
-  <description>Additional flowers! The mod also includes a small square pot. Updated from Lannan's LT-Gardening mod.</description>
+  <description>Additional flowers! The mod also includes a small square pot. Updated from Lannan's LT-Gardening mod.\nversion 14-7-2019</description>
+  <url>https://github.com/AugustZellmer/LT-GardeningRegrown</url>
 </ModMetaData>
