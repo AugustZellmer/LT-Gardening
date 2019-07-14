@@ -22,7 +22,7 @@
     <ThingDef ParentName="LT_PlantDecorativeBase">
         <defName>LT_PlantAstragalus</defName>
         <label>astragalus</label>
-        <description>A small wildflower that grows in alphine climate.</description>
+        <description>A small wildflower that grows in alpine climates.</description>
         <statBases>
             <MaxHitPoints>85</MaxHitPoints>
             <Beauty>12</Beauty>
@@ -52,7 +52,7 @@
     <ThingDef ParentName="LT_PlantDecorativeBase">
         <defName>LT_PlantRosebay</defName>
         <label>rosebay</label>
-        <description>A small but tough wildflower that grows in temperate climate.</description>
+        <description>A small but tough wildflower that grows in temperate climates.</description>
         <statBases>
             <MaxHitPoints>85</MaxHitPoints>
             <Beauty>18</Beauty>
@@ -83,7 +83,7 @@
     <ThingDef ParentName="LT_PlantDecorativeBase">
         <defName>LT_PlantDelphinium</defName>
         <label>delphinium</label>
-        <description>A beautiful cultivated flower with majestic purple tint. Must be replanted often.</description>
+        <description>A beautiful cultivated flower with majestic purple hue. Must be replanted often.</description>
         <statBases>
             <MaxHitPoints>85</MaxHitPoints>
             <Beauty>32</Beauty>
