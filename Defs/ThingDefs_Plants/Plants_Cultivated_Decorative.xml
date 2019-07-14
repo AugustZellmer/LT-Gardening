@@ -3,7 +3,7 @@
 
 	<ThingDef ParentName="PlantBase">
 		<defName>LT_PlantAstragalus</defName>
-		<label>white milkvetch</label>
+		<label>milkvetch</label>
 		<description>A small but tough wildflower that grows in alpine climates.</description>
 		<statBases>
             <MaxHitPoints>85</MaxHitPoints>
@@ -40,7 +40,7 @@
 
 	<ThingDef ParentName="PlantBase">
 		<defName>LT_PlantRosebay</defName>
-		<label>rhododendron</label>
+		<label>azalea</label>
 		<description>A long-lived wildflower that grows in temperate climates.</description>
 		<statBases>
             <MaxHitPoints>85</MaxHitPoints>
