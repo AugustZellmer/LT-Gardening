@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+	<LT_SquarePlantPot.label>화분 (사각형)</LT_SquarePlantPot.label>
+	<LT_SquarePlantPot.description>꽃을 심어 주변 사람들의 기분을 좋게 하세요.</LT_SquarePlantPot.description>
+
+	<LT_PlantAstragalus.label>자운영</LT_PlantAstragalus.label>
+	<LT_PlantAstragalus.description>작은 다년생의 야생화로 주로 고산지에서 자랍니다.</LT_PlantAstragalus.description>
+
+	<LT_PlantRosebay.label>진달래</LT_PlantRosebay.label>
+	<LT_PlantRosebay.description>작지만 강인한 야생화로 온대 지방에서 자랍니다.</LT_PlantRosebay.description>
+
+	<LT_PlantDelphinium.label>델피늄</LT_PlantDelphinium.label>
+	<LT_PlantDelphinium.description>고풍스러운 보라색의 아름다운 꽃입니다. 자주 갈아줘야 합니다.</LT_PlantDelphinium.description>
+
+</LanguageData>
