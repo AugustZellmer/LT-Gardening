@@ -16,7 +16,7 @@
 		</value>
 	</Operation>
 	<Operation Class="PatchOperationReplace">
-		<xpath>/Defs/ThingDef[defName = "Plant_Daylily"]/Plant/lifespanDaysPerGrowDays</xpath>
+		<xpath>/Defs/ThingDef[defName = "Plant_Daylily"]/plant/lifespanDaysPerGrowDays</xpath>
 		<value>
 			<lifespanDaysPerGrowDays>4</lifespanDaysPerGrowDays>
 		</value>
