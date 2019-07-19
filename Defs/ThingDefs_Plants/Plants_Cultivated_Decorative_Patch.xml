@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/ThingDefs/ThingDef[defName = "Plant_Rose"]/statBases/Beauty</xpath>
+		<value>
+			<Beauty>16</Beauty>
+		</value>
+	</Operation>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/ThingDefs/ThingDef[defName = "Plant_Daylily"]/statBases/Beauty</xpath>
+		<value>
+			<Beauty>20</Beauty>
+		</value>
+	</Operation>
+	<Operation Class="PatchOperationReplace">
+		<xpath>/ThingDefs/ThingDef[defName = "Plant_Daylily"]/lifespanDaysPerGrowDays</xpath>
+		<value>
+			<lifespanDaysPerGrowDays>4</lifespanDaysPerGrowDays>
+		</value>
+	</Operation>
+	
+</Patch>
