@@ -129,6 +129,7 @@
 			<texPath>Things/dandelion</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
+		<altitudeLayer>Item</altitudeLayer>
 	</ThingDef>
 
 </Defs>
