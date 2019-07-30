@@ -22,4 +22,11 @@
 		</value>
 	</Operation>
 	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/statBases/Beauty</xpath>
+		<value>
+			<Beauty>7</Beauty>
+		</value>
+	</Operation>
+	
 </Patch>

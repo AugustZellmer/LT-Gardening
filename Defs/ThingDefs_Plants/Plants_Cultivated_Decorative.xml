@@ -113,4 +113,22 @@
 		</plant>
 	</ThingDef>
 
+	<ThingDef ParentName="PlantBase">
+		<defName>LT_PlantDandelion</defName>
+		<label>dandelion</label>
+		<description>A tiny yellow flower which grows in clusters. Though it is often considered a weed, dandelions in bloom are quite beautiful.</description>
+		<statBases>
+			<Beauty>7</Beauty>
+		</statBases>
+		<plant>
+			<sowTags>
+				<li>Decorative</li>
+			</sowTags>
+		</plant>
+		<graphicData>
+			<texPath>Things/dandelion</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+	</ThingDef>
+
 </Defs>
