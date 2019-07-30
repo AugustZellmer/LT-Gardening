@@ -1,10 +1,47 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
-    <ThingDef ParentName="PlantPot">
+    <ThingDef ParentName="FurnitureWithQualityBase">
         <defName>SquarePlantPot</defName>
         <label>square plant pot</label>
+        <description>Plant decorative flowers here to improve the mood of people nearby.</description>
+        <thingClass>Building_PlantGrower</thingClass>
         <graphicData>
             <texPath>Things/Building/squarepot</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <shadowData>
+                <volume>(0.55, 0.35, 0.3)</volume>
+                <offset>(0, 0, -0.28)</offset>
+            </shadowData>
+            <damageData>
+                <rect>(0.2,0.2,0.6,0.6)</rect>
+            </damageData>
         </graphicData>
+        <altitudeLayer>Building</altitudeLayer>
+        <passability>PassThroughOnly</passability>
+        <fillPercent>0.20</fillPercent>
+        <statBases>
+            <MaxHitPoints>100</MaxHitPoints>
+            <WorkToBuild>250</WorkToBuild>
+            <Mass>2</Mass>
+            <Flammability>1.0</Flammability>
+        </statBases>
+        <stuffCategories>
+            <li>Metallic</li>
+            <li>Woody</li>
+            <li>Stony</li>
+        </stuffCategories>
+        <costStuffCount>20</costStuffCount>
+        <comps>
+            <li Class="CompProperties_Forbiddable"/>
+        </comps>
+        <fertility>1.0</fertility>
+        <designationHotKey>Misc9</designationHotKey>
+        <leaveResourcesWhenKilled>false</leaveResourcesWhenKilled>
+        <building>
+            <defaultPlantToGrow>Plant_Daylily</defaultPlantToGrow>
+            <sowTag>Decorative</sowTag>
+        </building>
+        <rotatable>false</rotatable>
+        <uiIconOffset>(0, -0.05)</uiIconOffset>
   </ThingDef>
 </Defs>
