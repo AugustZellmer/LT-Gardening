@@ -12,7 +12,7 @@
 			<Nutrition>0.05</Nutrition>
 		</statBases>
 		<graphicData>
-			<texPath>Things/astragalus</texPath>
+			<texPath>Things/Plants/astragalus</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<altitudeLayer>Item</altitudeLayer>
@@ -49,7 +49,7 @@
 			<Nutrition>0.05</Nutrition>
 		</statBases>
 		<graphicData>
-			<texPath>Things/rosebay</texPath>
+			<texPath>Things/Plants/rosebay</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<altitudeLayer>Item</altitudeLayer>
@@ -86,7 +86,7 @@
 			<Nutrition>0.05</Nutrition>
 		</statBases>
 		<graphicData>
-			<texPath>Things/delphinium</texPath>
+			<texPath>Things/Plants/delphinium</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<altitudeLayer>Item</altitudeLayer>
@@ -126,7 +126,7 @@
 			</sowTags>
 		</plant>
 		<graphicData>
-			<texPath>Things/dandelion</texPath>
+			<texPath>Things/Plants/dandelion</texPath>
 			<graphicClass>Graphic_Single</graphicClass>
 		</graphicData>
 		<altitudeLayer>Item</altitudeLayer>
