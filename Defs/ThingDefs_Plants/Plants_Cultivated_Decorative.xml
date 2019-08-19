@@ -137,7 +137,7 @@
 			</sowTags>
 			<visualSizeRange>
 				<min>0.3</min>
-				<max>0.4</max>
+				<max>0.9</max>
 			</visualSizeRange>
 			<topWindExposure>0.3</topWindExposure>
 			<growDays>3</growDays>
