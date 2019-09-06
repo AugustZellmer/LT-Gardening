@@ -7,7 +7,7 @@
 		<label>astragalus</label>
 		<description>A small but tough wildflower that grows in alpine climates.</description>
 		<statBases>
-			<MaxHitPoints>85</MaxHitPoints>
+			<MaxHitPoints>90</MaxHitPoints>
 			<Beauty>12</Beauty>
 			<Nutrition>0.05</Nutrition>
 		</statBases>
@@ -81,7 +81,7 @@
 		<label>delphinium</label>
 		<description>A beautiful cultivated flower with a majestic purple hue. It requires very particular growing conditions.</description>
 		<statBases>
-			<MaxHitPoints>85</MaxHitPoints>
+			<MaxHitPoints>60</MaxHitPoints>
 			<Beauty>24</Beauty>
 			<Nutrition>0.05</Nutrition>
 		</statBases>
