@@ -29,4 +29,25 @@
 		</value>
 	</Operation>
 	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/graphicData/graphicClass</xpath>
+		<value>
+			<graphicClass>Graphic_Single</graphicClass>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Things/Plant/dandelion</texPath>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/maxMeshCount</xpath>
+		<value>
+			<maxMeshCount>5</maxMeshCount>
+		</value>
+	</Operation>
+	
 </Patch>
