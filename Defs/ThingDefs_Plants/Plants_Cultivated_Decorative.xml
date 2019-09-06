@@ -141,7 +141,7 @@
 			</visualSizeRange>
 			<topWindExposure>0.3</topWindExposure>
 			<growDays>3</growDays>
-			<lifespanDaysPerGrowDays>1</lifespanDaysPerGrowDays>
+			<lifespanDaysPerGrowDays>3</lifespanDaysPerGrowDays>
 			<wildOrder>1</wildOrder>
 			<purpose>Beauty</purpose>
 		</plant>

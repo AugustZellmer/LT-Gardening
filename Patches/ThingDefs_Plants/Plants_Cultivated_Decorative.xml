@@ -50,4 +50,11 @@
 		</value>
 	</Operation>
 	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/visualSizeRange/max</xpath>
+		<value>
+			<max>0.7</max>
+		</value>
+	</Operation>
+	
 </Patch>
