@@ -46,7 +46,7 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/maxMeshCount</xpath>
 		<value>
-			<maxMeshCount>5</maxMeshCount>
+			<maxMeshCount>4</maxMeshCount>
 		</value>
 	</Operation>
 	
