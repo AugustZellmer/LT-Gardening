@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<Patch>
+
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/statBases/Beauty</xpath>
+		<value>
+			<Beauty>7</Beauty>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/graphicData/graphicClass</xpath>
+		<value>
+			<graphicClass>Graphic_Single</graphicClass>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/graphicData/texPath</xpath>
+		<value>
+			<texPath>Things/Plant/dandelion</texPath>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/maxMeshCount</xpath>
+		<value>
+			<maxMeshCount>4</maxMeshCount>
+		</value>
+	</Operation>
+	
+	<Operation Class="PatchOperationReplace">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/visualSizeRange/max</xpath>
+		<value>
+			<max>0.7</max>
+		</value>
+	</Operation>
+	
+</Patch>
