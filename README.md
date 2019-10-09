@@ -1,3 +1,1 @@
-LT-GardeningRegrown is a small mod for the game RimWorld. Originally created by Steam user Lannan, I have adopted and tweaked this mod for newer versions of the game. 
-
-This mod adds three new plantable flowers, and a square version of the plant pot.
+LT-GardeningRegrown is a mod for RimWorld based on Lannan's original LT-Gardening mod. LT-GardeningRegrown adds several additional flowers to RimWorld and buffs the base game's flowers.
