@@ -12,7 +12,7 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/graphicData/graphicClass</xpath>
 		<value>
-			<graphicClass>Graphic_Single</graphicClass>
+			<graphicClass>Graphic_Random</graphicClass>
 		</value>
 	</Operation>
 	
