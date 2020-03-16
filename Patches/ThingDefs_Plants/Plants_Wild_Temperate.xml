@@ -19,21 +19,21 @@
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/graphicData/texPath</xpath>
 		<value>
-			<texPath>Things/Plant/dandelion</texPath>
+			<texPath>Things/Plant/LTdandelion</texPath>
 		</value>
 	</Operation>
 	
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/maxMeshCount</xpath>
 		<value>
-			<maxMeshCount>4</maxMeshCount>
+			<maxMeshCount>9</maxMeshCount>
 		</value>
 	</Operation>
 	
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/visualSizeRange</xpath>
 		<value>
-			<visualSizeRange>0.3~0.7</visualSizeRange>
+			<visualSizeRange>0.3~0.6</visualSizeRange>
 		</value>
 	</Operation>
 	
