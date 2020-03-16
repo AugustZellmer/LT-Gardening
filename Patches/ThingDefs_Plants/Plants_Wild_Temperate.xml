@@ -31,9 +31,9 @@
 	</Operation>
 	
 	<Operation Class="PatchOperationReplace">
-		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/visualSizeRange/max</xpath>
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/visualSizeRange</xpath>
 		<value>
-			<max>0.7</max>
+			<visualSizeRange>0.3~0.7</visualSizeRange>
 		</value>
 	</Operation>
 	
