@@ -30,10 +30,7 @@
 			<topWindExposure>0.3</topWindExposure>
 			<growDays>1</growDays>
 			<lifespanDaysPerGrowDays>10</lifespanDaysPerGrowDays>
-			<visualSizeRange>
-				<min>0.3</min>
-				<max>1.1</max>
-			</visualSizeRange>
+			<visualSizeRange>0.3~1.1</visualSizeRange>
 			<wildOrder>1</wildOrder>
 			<purpose>Beauty</purpose>
 		</plant>
@@ -67,10 +64,7 @@
 			<topWindExposure>0.1</topWindExposure>
 			<growDays>1.5</growDays>
 			<lifespanDaysPerGrowDays>6</lifespanDaysPerGrowDays>
-			<visualSizeRange>
-				<min>0.3</min>
-				<max>1.05</max>
-			</visualSizeRange>
+			<visualSizeRange>0.3~1.05</visualSizeRange>
 			<wildOrder>1</wildOrder>
 			<purpose>Beauty</purpose>
 		</plant>
@@ -104,10 +98,7 @@
 			<topWindExposure>0.07</topWindExposure>
 			<growDays>3</growDays>
 			<lifespanDaysPerGrowDays>1</lifespanDaysPerGrowDays>
-			<visualSizeRange>
-				<min>0.3</min>
-				<max>1.4</max>
-			</visualSizeRange>
+			<visualSizeRange>0.3~1.4</visualSizeRange>
 			<wildOrder>1</wildOrder>
 			<purpose>Beauty</purpose>
 		</plant>
@@ -135,10 +126,7 @@
 			<sowTags>
 				<li>Decorative</li>
 			</sowTags>
-			<visualSizeRange>
-				<min>0.3</min>
-				<max>0.9</max>
-			</visualSizeRange>
+			<visualSizeRange>0.3~0.9</visualSizeRange>
 			<topWindExposure>0.3</topWindExposure>
 			<growDays>3</growDays>
 			<lifespanDaysPerGrowDays>3</lifespanDaysPerGrowDays>
