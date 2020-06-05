@@ -22,6 +22,10 @@
 			<texPath>Things/Plant/LTdandelion</texPath>
 		</value>
 	</Operation>
+
+	<Operation Class="PatchOperationRemove">
+		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/sowTags</xpath>
+	</Operation>
 	
 	<Operation Class="PatchOperationReplace">
 		<xpath>/Defs/ThingDef[defName = "Plant_Dandelion"]/plant/maxMeshCount</xpath>

@@ -4,7 +4,7 @@
 
 	<ThingDef ParentName="PlantBase">
 		<defName>LT_PlantAstragalus</defName>
-		<label>astragalus</label>
+		<label>white astragalus</label>
 		<description>A small but tough wildflower native to alpine climates.</description>
 		<statBases>
 			<MaxHitPoints>90</MaxHitPoints>
@@ -124,6 +124,7 @@
 			<harvestTag>Standard</harvestTag>
 			<sowWork>300</sowWork>
 			<sowTags>
+				<li>Ground</li>
 				<li>Decorative</li>
 			</sowTags>
 			<visualSizeRange>0.3~0.9</visualSizeRange>
