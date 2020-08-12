@@ -5,10 +5,11 @@
   <packageId>MathewAlden.LTGardeningRegrown</packageId>
   <supportedVersions>
     <li>1.1</li>
+    <li>1.2</li>
   </supportedVersions>
-  <description>Based on Lannan's original LT-Gardening mod, LT-GardeningRegrown adds several additional flowers to RimWorld and buffs the game's existing flowers.\n\nv. 4-June-2020</description>
+  <description>Based on Lannan's original LT-Gardening mod, LT-GardeningRegrown adds several additional flowers to RimWorld and buffs the game's existing flowers.\n\nv. 11-August-2020</description>
   <url>https://github.com/AugustZellmer/LT-GardeningRegrown</url>
   <customData IgnoreIfNoMatchingField="True">
-	<version>4-June-2020</version>
+	<version>11-August-2020</version>
   </customData>
 </ModMetaData>
