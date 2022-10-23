@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 
 <Patch>
-    <Operation Class="PatchOperationFindMod">
-        <mods>
-            <li>Ideology</li>
-        </mods>
+    <Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ThingDef[defName = "Plant_Tinctoria"]</xpath>
         <match Class="PatchOperationReplace">
             <xpath>/Defs/ThingDef[defName = "Plant_Tinctoria"]/statBases/Beauty</xpath>
             <value>
@@ -12,10 +10,8 @@
             </value>
         </match>
     </Operation>
-    <Operation Class="PatchOperationFindMod">
-        <mods>
-            <li>Ideology</li>
-        </mods>
+    <Operation Class="PatchOperationConditional">
+		<xpath>/Defs/ThingDef[defName = "Plant_Tinctoria"]</xpath>
         <match Class="PatchOperationAdd">
             <xpath>Defs</xpath>
             <value>
